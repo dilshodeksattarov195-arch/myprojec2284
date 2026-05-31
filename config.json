@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasepecrypt",
+        "uuid": 2080724,
+        "checksum": "djsfve"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
